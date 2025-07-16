@@ -2,9 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Stack.playground">
+      location = "group:DataStructures.playground">
    </FileRef>
    <FileRef
-      location = "group:playgrounds/LinkedList.playground">
+      location = "group:playgrounds/Algorithms.playground">
    </FileRef>
 </Workspace>
